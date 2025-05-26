@@ -1,3 +1,0 @@
-C:/Users/carei/OneDrive/Documents/ARMANDUS/build/CMakeFiles/Armandus.dir
-C:/Users/carei/OneDrive/Documents/ARMANDUS/build/CMakeFiles/edit_cache.dir
-C:/Users/carei/OneDrive/Documents/ARMANDUS/build/CMakeFiles/rebuild_cache.dir
