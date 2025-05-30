@@ -141,4 +141,17 @@ CMakeFiles/Armandus.dir/src/core/app/application.cpp.obj: \
  C:/msys64/mingw64/include/c++/14.2.0/bits/basic_ios.tcc \
  C:/msys64/mingw64/include/c++/14.2.0/bits/ostream.tcc \
  C:/msys64/mingw64/include/c++/14.2.0/istream \
- C:/msys64/mingw64/include/c++/14.2.0/bits/istream.tcc
+ C:/msys64/mingw64/include/c++/14.2.0/bits/istream.tcc \
+ C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/menu.h \
+ C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui.h \
+ C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imconfig.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/float.h \
+ C:/msys64/mingw64/include/float.h \
+ C:/msys64/mingw64/lib/gcc/x86_64-w64-mingw32/14.2.0/include/stdarg.h \
+ C:/msys64/mingw64/include/stdarg.h \
+ C:/msys64/mingw64/include/_mingw_stdarg.h \
+ C:/msys64/mingw64/include/string.h \
+ C:/msys64/mingw64/include/sec_api/string_s.h \
+ C:/msys64/mingw64/include/assert.h \
+ C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/backends/imgui_impl_glfw.h \
+ C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/backends/imgui_impl_opengl3.h

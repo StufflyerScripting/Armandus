@@ -10,12 +10,13 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "C:/glad/src/glad.c" "CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj" "gcc" "CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj.d"
   "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/app/application.cpp" "CMakeFiles/Armandus.dir/src/core/app/application.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/app/application.cpp.obj.d"
-  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj.d"
-  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_draw.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj.d"
-  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_impl_glfw.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj.d"
-  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_impl_opengl3.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj.d"
-  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_tables.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj.d"
-  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_widgets.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj.d"
+  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj.d"
+  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_draw.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj.d"
+  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_impl_glfw.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj.d"
+  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_impl_opengl3.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj.d"
+  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_tables.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj.d"
+  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_widgets.cpp" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj.d"
+  "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/menu.cpp" "CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj" "gcc" "CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj.d"
   )
 
 # Targets to which this target links which contain Fortran sources.

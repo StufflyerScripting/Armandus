@@ -86,101 +86,116 @@ CMakeFiles/Armandus.dir/src/core/app/application.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/app/application.cpp.s"
 	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\app\application.cpp -o CMakeFiles\Armandus.dir\src\core\app\application.cpp.s
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj: CMakeFiles/Armandus.dir/flags.make
-CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
-CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui.cpp
-CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj: CMakeFiles/Armandus.dir/flags.make
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui.cpp
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui.cpp.i
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui.cpp.i
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui.cpp.s
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui.cpp.s
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj: CMakeFiles/Armandus.dir/flags.make
-CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
-CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_draw.cpp
-CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui_draw.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui_draw.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_draw.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj: CMakeFiles/Armandus.dir/flags.make
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_draw.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_draw.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_draw.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_draw.cpp
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_draw.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui_draw.cpp.i
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_draw.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_draw.cpp.i
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_draw.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui_draw.cpp.s
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_draw.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_draw.cpp.s
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj: CMakeFiles/Armandus.dir/flags.make
-CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
-CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_tables.cpp
-CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui_tables.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui_tables.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_tables.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj: CMakeFiles/Armandus.dir/flags.make
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_tables.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_tables.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_tables.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_tables.cpp
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_tables.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui_tables.cpp.i
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_tables.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_tables.cpp.i
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_tables.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui_tables.cpp.s
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_tables.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_tables.cpp.s
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj: CMakeFiles/Armandus.dir/flags.make
-CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
-CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_widgets.cpp
-CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui_widgets.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui_widgets.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_widgets.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj: CMakeFiles/Armandus.dir/flags.make
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_widgets.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_widgets.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_widgets.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_widgets.cpp
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_widgets.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui_widgets.cpp.i
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_widgets.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_widgets.cpp.i
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_widgets.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui_widgets.cpp.s
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_widgets.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_widgets.cpp.s
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj: CMakeFiles/Armandus.dir/flags.make
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_impl_glfw.cpp
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui_impl_glfw.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui_impl_glfw.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_impl_glfw.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj: CMakeFiles/Armandus.dir/flags.make
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_impl_glfw.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_impl_glfw.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_impl_glfw.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_impl_glfw.cpp
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_impl_glfw.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui_impl_glfw.cpp.i
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_impl_glfw.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_impl_glfw.cpp.i
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_impl_glfw.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui_impl_glfw.cpp.s
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_impl_glfw.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_impl_glfw.cpp.s
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj: CMakeFiles/Armandus.dir/flags.make
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_impl_opengl3.cpp
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui_impl_opengl3.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui_impl_opengl3.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_impl_opengl3.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj: CMakeFiles/Armandus.dir/flags.make
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_impl_opengl3.cpp
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_impl_opengl3.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_impl_opengl3.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_impl_opengl3.cpp
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.i"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_impl_opengl3.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui_impl_opengl3.cpp.i
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_impl_opengl3.cpp > CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_impl_opengl3.cpp.i
 
-CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.s"
-	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui_impl_opengl3.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui_impl_opengl3.cpp.s
+CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\imgui\imgui_impl_opengl3.cpp -o CMakeFiles\Armandus.dir\src\core\gui\imgui\imgui_impl_opengl3.cpp.s
+
+CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj: CMakeFiles/Armandus.dir/flags.make
+CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj: CMakeFiles/Armandus.dir/includes_CXX.rsp
+CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj: C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/menu.cpp
+CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj -MF CMakeFiles\Armandus.dir\src\core\gui\menu.cpp.obj.d -o CMakeFiles\Armandus.dir\src\core\gui\menu.cpp.obj -c C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\menu.cpp
+
+CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.i"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\menu.cpp > CMakeFiles\Armandus.dir\src\core\gui\menu.cpp.i
+
+CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.s"
+	C:\msys64\mingw64\bin\g++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\carei\OneDrive\Documents\ARMANDUS\src\core\gui\menu.cpp -o CMakeFiles\Armandus.dir\src\core\gui\menu.cpp.s
 
 CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj: CMakeFiles/Armandus.dir/flags.make
 CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj: CMakeFiles/Armandus.dir/includes_C.rsp
 CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj: C:/glad/src/glad.c
 CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj: CMakeFiles/Armandus.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building C object CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building C object CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj"
 	C:\msys64\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj -MF CMakeFiles\Armandus.dir\C_\glad\src\glad.c.obj.d -o CMakeFiles\Armandus.dir\C_\glad\src\glad.c.obj -c C:\glad\src\glad.c
 
 CMakeFiles/Armandus.dir/C_/glad/src/glad.c.i: cmake_force
@@ -194,30 +209,32 @@ CMakeFiles/Armandus.dir/C_/glad/src/glad.c.s: cmake_force
 # Object files for target Armandus
 Armandus_OBJECTS = \
 "CMakeFiles/Armandus.dir/src/core/app/application.cpp.obj" \
-"CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj" \
-"CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj" \
-"CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj" \
-"CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj" \
-"CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj" \
-"CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj" \
+"CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj" \
+"CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj" \
+"CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj" \
+"CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj" \
+"CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj" \
+"CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj" \
+"CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj" \
 "CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj"
 
 # External object files for target Armandus
 Armandus_EXTERNAL_OBJECTS =
 
 C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/app/application.cpp.obj
-C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj
-C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj
-C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj
-C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj
-C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj
-C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj
+C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj
+C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj
+C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj
+C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj
+C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj
+C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj
+C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj
 C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/C_/glad/src/glad.c.obj
 C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/build.make
 C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/linkLibs.rsp
 C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/objects1.rsp
 C:/Users/carei/OneDrive/Documents/ARMANDUS/src/bin/Armandus.exe: CMakeFiles/Armandus.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Linking CXX executable C:\Users\carei\OneDrive\Documents\ARMANDUS\src\bin\Armandus.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=C:\Users\carei\OneDrive\Documents\ARMANDUS\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Linking CXX executable C:\Users\carei\OneDrive\Documents\ARMANDUS\src\bin\Armandus.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Armandus.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

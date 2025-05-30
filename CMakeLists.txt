@@ -11,12 +11,13 @@ set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_SOURCE_DIR}/src/bin")
 # Define source files
 set(SOURCES
     src/core/app/application.cpp
-    src/core/gui/imgui.cpp
-    src/core/gui/imgui_draw.cpp
-    src/core/gui/imgui_tables.cpp
-    src/core/gui/imgui_widgets.cpp
-    src/core/gui/imgui_impl_glfw.cpp
-    src/core/gui/imgui_impl_opengl3.cpp
+    src/core/gui/imgui/imgui.cpp
+    src/core/gui/imgui/imgui_draw.cpp
+    src/core/gui/imgui/imgui_tables.cpp
+    src/core/gui/imgui/imgui_widgets.cpp
+    src/core/gui/imgui/imgui_impl_glfw.cpp
+    src/core/gui/imgui/imgui_impl_opengl3.cpp
+    src/core/gui/menu.cpp
     C:/glad/src/glad.c
 )
 
@@ -26,8 +27,8 @@ add_executable(Armandus ${SOURCES})
 # Include directories
 target_include_directories(Armandus PRIVATE
     ${CMAKE_CURRENT_SOURCE_DIR}
-    ${CMAKE_CURRENT_SOURCE_DIR}/core
-    ${CMAKE_CURRENT_SOURCE_DIR}/core/gui
+    ${CMAKE_CURRENT_SOURCE_DIR}/src/core
+    ${CMAKE_CURRENT_SOURCE_DIR}/src/core/gui
     C:/glfw-3.4.bin.WIN64/include
     C:/glm
     C:/glad/include
@@ -43,7 +44,7 @@ link_directories(
 
 # Link libraries
 target_link_libraries(Armandus
-    glfw3       # ⚠️ Make sure this matches the .lib/.a you have in lib-mingw-w64
+    glfw3
     opengl32
     gdi32
 )

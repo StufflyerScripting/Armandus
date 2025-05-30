@@ -7,39 +7,45 @@
 },
 {
   "directory": "C:/Users/carei/OneDrive/Documents/ARMANDUS/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui.cpp",
-  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui.cpp",
-  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui\\imgui.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui\\imgui.cpp",
+  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui.cpp",
+  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui.cpp.obj"
 },
 {
   "directory": "C:/Users/carei/OneDrive/Documents/ARMANDUS/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui_draw.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui_draw.cpp",
-  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_draw.cpp",
-  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui_draw.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui\\imgui_draw.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui\\imgui_draw.cpp",
+  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_draw.cpp",
+  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_draw.cpp.obj"
 },
 {
   "directory": "C:/Users/carei/OneDrive/Documents/ARMANDUS/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui_tables.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui_tables.cpp",
-  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_tables.cpp",
-  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui_tables.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui\\imgui_tables.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui\\imgui_tables.cpp",
+  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_tables.cpp",
+  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_tables.cpp.obj"
 },
 {
   "directory": "C:/Users/carei/OneDrive/Documents/ARMANDUS/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui_widgets.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui_widgets.cpp",
-  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_widgets.cpp",
-  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui_widgets.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui\\imgui_widgets.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui\\imgui_widgets.cpp",
+  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_widgets.cpp",
+  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_widgets.cpp.obj"
 },
 {
   "directory": "C:/Users/carei/OneDrive/Documents/ARMANDUS/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui_impl_glfw.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui_impl_glfw.cpp",
-  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_impl_glfw.cpp",
-  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_glfw.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui\\imgui_impl_glfw.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui\\imgui_impl_glfw.cpp",
+  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_glfw.cpp.obj"
 },
 {
   "directory": "C:/Users/carei/OneDrive/Documents/ARMANDUS/build",
-  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui_impl_opengl3.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui_impl_opengl3.cpp",
-  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui_impl_opengl3.cpp",
-  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui_impl_opengl3.cpp.obj"
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\imgui\\imgui_impl_opengl3.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\imgui\\imgui_impl_opengl3.cpp",
+  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/imgui/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/Armandus.dir/src/core/gui/imgui/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Users/carei/OneDrive/Documents/ARMANDUS/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe  @CMakeFiles/Armandus.dir/includes_CXX.rsp -g -std=gnu++17 -o CMakeFiles\\Armandus.dir\\src\\core\\gui\\menu.cpp.obj -c C:\\Users\\carei\\OneDrive\\Documents\\ARMANDUS\\src\\core\\gui\\menu.cpp",
+  "file": "C:/Users/carei/OneDrive/Documents/ARMANDUS/src/core/gui/menu.cpp",
+  "output": "CMakeFiles/Armandus.dir/src/core/gui/menu.cpp.obj"
 },
 {
   "directory": "C:/Users/carei/OneDrive/Documents/ARMANDUS/build",
